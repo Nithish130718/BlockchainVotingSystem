@@ -3,22 +3,18 @@
 A simple decentralized application (DApp) for conducting elections using smart contracts on the Ethereum blockchain. This Voting DApp allows users to create a voting process, cast votes for candidates, and view election results.
 
 ## Features
-```
 - Add candidates to an election
 - Cast votes for candidates
 - View the results of the election
 - Simple and user-friendly interface
-```
 
 ## Prerequisites
-```
-To work with this DApp, you'll need:
 
-- [Node.js](https://nodejs.org/) installed on your machine
-- [Truffle](https://www.trufflesuite.com/truffle) or [Hardhat](https://hardhat.org/) for compiling and deploying the smart contract
-- A code editor (like [Visual Studio Code](https://code.visualstudio.com/))
-- [MetaMask](https://metamask.io/) installed in your browser for interacting with the Ethereum blockchain
-```
+To work with this DApp, you'll need:
+   - [Node.js](https://nodejs.org/) installed on your machine
+   - [Truffle](https://www.trufflesuite.com/truffle) or [Hardhat](https://hardhat.org/) for compiling and deploying the smart contract
+   - A code editor (like [Visual Studio Code](https://code.visualstudio.com/))
+   - [MetaMask](https://metamask.io/) installed in your browser for interacting with the Ethereum blockchain
 
 
 ## Getting Started
